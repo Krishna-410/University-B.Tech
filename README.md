@@ -22,7 +22,7 @@ The repository is organized by semester. Each semester folder contains subfolder
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Year 1
+Year 1 - CGPA: 9.28
 
 Semester 1: Introduction to Programming, Logic Building, Front-End_Development and Data Science.
 
@@ -31,6 +31,8 @@ Subjects:[Logic Building in Computer Programming,Foundation of DataScience, Basi
 
 Highlights: Basic coding, Databasis, Database Managment, Probelm Solving, WebDeveploment, Introduction to [ Artificial Intelligence, Machine Learning, Deep Learning, Neural Network].
 
+Semester 1 SGPA: 9.24
+
 Semester 2: Enhancing Computational Logic And Efficiency With Opps and DSA in C/C++, Python and BackEnd.
 
 Languages: [DSA with C/C++, OOPs with C++, Python, JavaScript, Discrete Mathematics]
@@ -38,6 +40,8 @@ Subjects:[OOPs using C++ Language,Foundation of DataScience, Basic Aptitude, Fro
 
 Highlights:Studying With Discrete Mathematics Along With Transitioning From Basic Coding To Complex Problem-Solving Using DSA (Data Structures & Algorithms),
 OOPs (Object Oriented Programs) And Learning Complex Artificial Intelligence,Machine Learning, Deep Learning, Neural Network.
+
+Semester 2 SGPA: 9.32
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -92,9 +96,10 @@ Highlights: XXX.
 
 🛠️ Skills Acquired
 As I progress through my degree, I am building proficiency in:
-Languages: (C, Python, HTML, CSS, JavaScript, MySQL)
+Languages: (C, C++, Python, HTML, CSS, JavaScript, MySQL)
+Subjects: (Discrete Mathematics, JavaScript Node.js & Express.js, Data Structures & Algorithm)
 
-Tools: Git, VS Code, Linux, SQL.
+Tools: Git, VS Code, Linux, SQL, GitHub.
 
 Documentation: LaTeX, Markdown, Technical Reporting.
 
